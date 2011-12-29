@@ -1,0 +1,60 @@
+__________________________________________________
+page: 10
+id: 10
+id_origional: 54
+link: http://cafef.vn/vat-lieu-xay-dung.chn
+__________________________________________________
+page: 29
+id: 11
+id_origional: 55
+link: http://cafef.vn/hang-tieu-dung.chn
+__________________________________________________
+page: 34
+id: 9
+id_origional: 53
+link: http://cafef.vn/kim-loai.chn
+__________________________________________________
+page: 37
+id: 7
+id_origional: 51
+link: http://cafef.vn/nang-luong-tai-nguyen.chn
+__________________________________________________
+page: 76
+id: 8
+id_origional: 52
+link: http://cafef.vn/nong-thuy-san.chn
+__________________________________________________
+page: 5
+id: 11
+id_origional: 55
+link: http://cafef.vn/hang-tieu-dung.chn
+__________________________________________________
+page: 3
+id: 8
+id_origional: 52
+link: http://cafef.vn/nong-thuy-san.chn
+__________________________________________________
+page: 450
+id: 4
+id_origional: 32
+link: http://cafef.vn/tai-chinh-quoc-te.chn
+__________________________________________________
+page: 4
+id: 7
+id_origional: 51
+link: http://cafef.vn/nang-luong-tai-nguyen.chn
+__________________________________________________
+page: 483
+id: 3
+id_origional: 34
+link: http://cafef.vn/tai-chinh-ngan-hang.chn
+__________________________________________________
+page: 613
+id: 5
+id_origional: 32
+link: http://cafef.vn/vi-mo-dau-tu.chn
+__________________________________________________
+page: 624
+id: 1
+id_origional: 31
+link: http://cafef.vn/thi-truong-chung-khoan.chn

@@ -1,0 +1,246 @@
+__________________________________________________
+page: 1
+id: 33
+id_origional: 9916
+link: http://vneconomy.vn/p19c9916/tindung.htm
+__________________________________________________
+page: 2
+id: 4
+id_origional: 9918
+link: http://vneconomy.vn/p9920c9918/vneconomy-truc-tuyen.htm
+__________________________________________________
+page: 4
+id: 48
+id_origional: 9919
+link: http://vneconomy.vn/p23c9919/van-hoa-xe.htm
+__________________________________________________
+page: 5
+id: 22
+id_origional: 707
+link: http://vneconomy.vn/p7c707/kinh-nghiem-kien-thuc.htm
+__________________________________________________
+page: 5
+id: 30
+id_origional: 1016
+link: http://vneconomy.vn/p10c1016/viet-nam-eu.htm
+__________________________________________________
+page: 6
+id: 29
+id_origional: 1015
+link: http://vneconomy.vn/p10c1015/viet-nam-asean.htm
+__________________________________________________
+page: 7
+id: 9
+id_origional: 9917
+link: http://vneconomy.vn/p5c9917/thuong-hieu-manh.htm
+__________________________________________________
+page: 7
+id: 27
+id_origional: 1003
+link: http://vneconomy.vn/p10c1003/viet-nam-my.htm
+__________________________________________________
+page: 8
+id: 49
+id_origional: 2303
+link: http://vneconomy.vn/p23c2303/the-gioi-xe.htm
+__________________________________________________
+page: 9
+id: 28
+id_origional: 1005
+link: http://vneconomy.vn/p10c1005/viet-nam-dong-a.htm
+__________________________________________________
+page: 12
+id: 23
+id_origional: 705
+link: http://vneconomy.vn/p7c705/ipo-co-phan-hoa.htm
+__________________________________________________
+page: 13
+id: 13
+id_origional: 603
+link: http://vneconomy.vn/p6c603/bao-hiem.htm
+__________________________________________________
+page: 14
+id: 6
+id_origional: 502
+link: http://vneconomy.vn/p5c502/doi-song-doanh-nhan.htm
+__________________________________________________
+page: 15
+id: 34
+id_origional: 9915
+link: http://vneconomy.vn/p19c9915/thong-tin-doanh-nghiep.htm
+__________________________________________________
+page: 16
+id: 43
+id_origional: 9905
+link: http://vneconomy.vn/p16c9905/vien-thong.htm
+__________________________________________________
+page: 20
+id: 7
+id_origional: 503
+link: http://vneconomy.vn/p5c503/kinh-nghiem-quan-tri.htm
+__________________________________________________
+page: 21
+id: 12
+id_origional: 601
+link: http://vneconomy.vn/p6c601/thue-ngan-sach.htm
+__________________________________________________
+page: 21
+id: 47
+id_origional: 2306
+link: http://vneconomy.vn/p23c2306/cong-nghiep-xe.htm
+__________________________________________________
+page: 22
+id: 3
+id_origional: 9923
+link: http://vneconomy.vn/p9920c9923/xa-hoi.htm
+__________________________________________________
+page: 24
+id: 42
+id_origional: 9904
+link: http://vneconomy.vn/p16c9904/cong-nghe-thong-tin.htm
+__________________________________________________
+page: 25
+id: 44
+id_origional: 9906
+link: http://vneconomy.vn/p16c9906/dich-vu-san-pham.htm
+__________________________________________________
+page: 26
+id: 40
+id_origional: 9902
+link: http://vneconomy.vn/p99c9902/ho-so.htm
+__________________________________________________
+page: 27
+id: 14
+id_origional: 410
+link: http://vneconomy.vn/p6c410/bien-dong-lai-suat.htm
+__________________________________________________
+page: 27
+id: 37
+id_origional: 9908
+link: http://vneconomy.vn/p17c9908/ha-tang-quy-hoach.htm
+__________________________________________________
+page: 30
+id: 16
+id_origional: 604
+link: http://vneconomy.vn/p6c604/bien-dong-ty-gia.htm
+__________________________________________________
+page: 30
+id: 36
+id_origional: 9907
+link: http://vneconomy.vn/p17c9907/thi-truong.htm
+__________________________________________________
+page: 37
+id: 39
+id_origional: 9901
+link: http://vneconomy.vn/p99c9901/binh-luan-nhan-dinh.htm
+__________________________________________________
+page: 41
+id: 8
+id_origional: 11
+link: http://vneconomy.vn/p5c11/nguon-nhan-luc.htm
+__________________________________________________
+page: 42
+id: 2
+id_origional: 9922
+link: http://vneconomy.vn/p9920c9922/chinh-tri-nghi-truong.htm
+__________________________________________________
+page: 42
+id: 19
+id_origional: 281
+link: http://vneconomy.vn/p7c281/giao-dich-trong-ngay.htm
+__________________________________________________
+page: 44
+id: 46
+id_origional: 2301
+link: http://vneconomy.vn/p23c2301/thi-truong.htm
+__________________________________________________
+page: 45
+id: 20
+id_origional: 706
+link: http://vneconomy.vn/p7c706/chung-khoan-the-gioi.htm
+__________________________________________________
+page: 46
+id: 25
+id_origional: 1001
+link: http://vneconomy.vn/p10c1001/dau-tu-oda.htm
+__________________________________________________
+page: 52
+id: 26
+id_origional: 1002
+link: http://vneconomy.vn/p10c1002/xuat-nhap-khau.htm
+__________________________________________________
+page: 54
+id: 32
+id_origional: 9911
+link: http://vneconomy.vn/p19c9911/chuyen-dong-thi-truong.htm
+__________________________________________________
+page: 62
+id: 21
+id_origional: 708
+link: http://vneconomy.vn/p7c708/binh-luan-nhan-dinh.htm
+__________________________________________________
+page: 64
+id: 15
+id_origional: 628
+link: http://vneconomy.vn/p6c628/thi-truong-vang.htm
+__________________________________________________
+page: 86
+id: 1
+id_origional: 9920
+link: http://vneconomy.vn/p0c9920/thoi-su.htm
+__________________________________________________
+page: 89
+id: 35
+id_origional: 17
+link: http://vneconomy.vn/p0c17/bat-dong-san.htm
+__________________________________________________
+page: 91
+id: 45
+id_origional: 23
+link: http://vneconomy.vn/p0c23/xe-360.htm
+__________________________________________________
+page: 98
+id: 41
+id_origional: 16
+link: http://vneconomy.vn/p0c16/cuoc-song-so.htm
+__________________________________________________
+page: 107
+id: 5
+id_origional: 5
+link: http://vneconomy.vn/p0c5/doanh-nghiep.htm
+__________________________________________________
+page: 116
+id: 18
+id_origional: 642
+link: http://vneconomy.vn/p7c642/tin-doanh-nghiep.htm
+__________________________________________________
+page: 121
+id: 31
+id_origional: 19
+link: http://vneconomy.vn/p0c19/thi-truong.htm
+__________________________________________________
+page: 124
+id: 11
+id_origional: 602
+link: http://vneconomy.vn/p6c602/ngan-hang.htm
+__________________________________________________
+page: 129
+id: 24
+id_origional: 10
+link: http://vneconomy.vn/p0c10/giao-thuong.htm
+__________________________________________________
+page: 220
+id: 38
+id_origional: 99
+link: http://vneconomy.vn/p0c99/the-gioi.htm
+__________________________________________________
+page: 292
+id: 10
+id_origional: 6
+link: http://vneconomy.vn/p0c6/tai-chinh.htm
+__________________________________________________
+page: 527
+id: 17
+id_origional: 7
+link: http://vneconomy.vn/p0c7/chung-khoan.htm
+__________________________________________________

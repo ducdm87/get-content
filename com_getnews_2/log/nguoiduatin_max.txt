@@ -1,0 +1,125 @@
+__________________________________________________
+page: 4
+id: 4
+id_origional: 79
+link: http://nguoiduatin.vn/cat-5F2287/tham-tu-hien-truong.html
+__________________________________________________
+page: 8
+id: 20
+id_origional: 93
+link: http://www.nguoiduatin.vn/cat-83D75F/blog.html
+__________________________________________________
+page: 20
+id: 2
+id_origional: 77
+link: http://nguoiduatin.vn/cat-5A60FF/vu-an-noi-tieng.html
+__________________________________________________
+page: 21
+id: 1
+id_origional: 78
+link: http://nguoiduatin.vn/cat-5CBDDC/phap-dinh.html
+__________________________________________________
+page: 21
+id: 13
+id_origional: 84
+link: http://nguoiduatin.vn/cat-6B8EF0/o-to-xe-may.html
+__________________________________________________
+page: 27
+id: 17
+id_origional: 64
+link: http://nguoiduatin.vn/cat-3E7000/chuyen-la.html
+__________________________________________________
+page: 28
+id: 21
+id_origional: 82
+link: http://nguoiduatin.vn/cat-667F5C/phong-cach.html
+__________________________________________________
+page: 29
+id: 6
+id_origional: 56
+link: http://nguoiduatin.vn/cat-2FCDC0/hon-nhan-gia-dinh.html
+__________________________________________________
+page: 31
+id: 16
+id_origional: 63
+link: http://nguoiduatin.vn/cat-3C8067/goc-nhin.html
+__________________________________________________
+page: 32
+id: 22
+id_origional: 58
+link: http://www.nguoiduatin.vn/cat-33477C/nhip-tre.html
+__________________________________________________
+page: 34
+id: 25
+id_origional: 87
+link: http://nguoiduatin.vn/cat-7360D7/fan-wags.html
+__________________________________________________
+page: 42
+id: 27
+id_origional: 89
+link: http://nguoiduatin.vn/cat-78BE77/thu-gian.html
+__________________________________________________
+page: 50
+id: 12
+id_origional: 83
+link: http://nguoiduatin.vn/cat-69033F/tai-chinh-dia-oc.html
+__________________________________________________
+page: 57
+id: 24
+id_origional: 86
+link: http://nguoiduatin.vn/cat-70BDBC/bong-da.html
+__________________________________________________
+page: 58
+id: 15
+id_origional: 62
+link: http://nguoiduatin.vn/cat-3A989C/tieu-diem.html
+__________________________________________________
+page: 61
+id: 10
+id_origional: 61
+link: http://nguoiduatin.vn/cat-38B89F/nhan-vat.html
+__________________________________________________
+page: 70
+id: 19
+id_origional: 55
+link: http://nguoiduatin.vn/cat-2E1C97/video.html
+__________________________________________________
+page: 73
+id: 9
+id_origional: 60
+link: http://nguoiduatin.vn/cat-36E070/su-kien.html
+__________________________________________________
+page: 82
+id: 3
+id_origional: 76
+link: http://nguoiduatin.vn/cat-580BF0/an-ninh-hinh-su.html
+__________________________________________________
+page: 90
+id: 23
+id_origional: 66
+link: http://nguoiduatin.vn/cat-42669C/nguoi-tre.html
+__________________________________________________
+page: 120
+id: 18
+id_origional: 54
+link: http://nguoiduatin.vn/cat-2C733C/the-gioi.html
+__________________________________________________
+page: 135
+id: 11
+id_origional: 52
+link: http://nguoiduatin.vn/cat-2937F0/hau-truong.html
+__________________________________________________
+page: 135
+id: 14
+id_origional: 53
+link: http://nguoiduatin.vn/cat-2AD1AF/kinh-doanh.html
+__________________________________________________
+page: 153
+id: 5
+id_origional: 49
+link: http://nguoiduatin.vn/cat-249987/to-tung.html
+__________________________________________________
+page: 157
+id: 7
+id_origional: 80
+link: http://nguoiduatin.vn/cat-618F00/xa-hoi.html

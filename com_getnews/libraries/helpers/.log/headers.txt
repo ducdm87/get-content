@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+http://www.baomoi.com/Home/category/host-baomoi/alias-baomoi/4779888.epi
+
+GET /Home/category/host-baomoi/alias-baomoi/4779888.epi HTTP/1.1
+Host: www.baomoi.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+Connection: Close
+
+HTTP/1.1 200 OK
+Connection: close
+Date: Thu, 29 Dec 2011 14:42:32 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Set-Cookie: .ASPXANONYMOUS=3HFf78n8zAEkAAAAMzdmYzg3ZGEtYTAyNS00OGFiLTk3MmMtMDdiYWYzYTZmMWQy0; domain=.baomoi.com; expires=Thu, 08-Mar-2012 01:22:32 GMT; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=; domain=.baomoi.com; path=/
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 59739
+
+<... See page contents in D:\wamp\www\get_content\components\com_getnews\libraries\helpers\.log/1.html ...>
+
+------ Transferred 60kb in 13.0 sec ------
